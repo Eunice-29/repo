@@ -16,6 +16,9 @@ public class UserDaoTest {
     public void findAllTest(){
         List<User> all = dao.findAll();
         System.out.println(all);
+        System.out.println("11111111");
+        System.out.println("11111111");
+        System.out.println("11111111");
     }
 
 
